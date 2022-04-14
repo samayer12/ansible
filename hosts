@@ -1,0 +1,2 @@
+[mikrotik]
+routeros-01 ansible_host=192.168.45.3
